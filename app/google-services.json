@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1032898175933",
+    "project_id": "g7-4-3-2-8b5e1",
+    "storage_bucket": "g7-4-3-2-8b5e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032898175933:android:154a44e5ef49ef936728d4",
+        "android_client_info": {
+          "package_name": "com.example.newski"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032898175933-qf46b0ito1uo6un6ij922dvcvnrma234.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBNzgmvSFQydJqAbmJIG0HzXnHGXjf7Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032898175933-qf46b0ito1uo6un6ij922dvcvnrma234.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032898175933:android:258e635f3a3b6ebe6728d4",
+        "android_client_info": {
+          "package_name": "com.example.thanos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032898175933-qf46b0ito1uo6un6ij922dvcvnrma234.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBNzgmvSFQydJqAbmJIG0HzXnHGXjf7Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032898175933-qf46b0ito1uo6un6ij922dvcvnrma234.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
